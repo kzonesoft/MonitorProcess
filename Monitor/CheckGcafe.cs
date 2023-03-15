@@ -23,7 +23,7 @@ namespace smss
         {
             while (true) {
                 var pList = Process.GetProcesses().Where(x => _listProcessName.Contains(x.ProcessName));
-                if (pList != null || pList.Count() > 0)
+                if (pList != null && pList.Count() > 0)
                 {
                     foreach (var p in pList)
                     {
