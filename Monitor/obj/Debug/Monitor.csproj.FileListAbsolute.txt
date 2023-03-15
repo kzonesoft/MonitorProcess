@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Debug\smss.exe.config
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Debug\smss.exe
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Debug\smss.pdb
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\smss.exe
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Debug\smss.pdb

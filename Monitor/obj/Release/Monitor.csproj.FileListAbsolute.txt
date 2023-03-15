@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Release\smss.exe.config
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Release\smss.exe
+C:\Users\Administrator\source\repos\Monitor\Monitor\bin\Release\smss.pdb
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Release\Monitor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Release\Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Release\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Release\smss.exe
+C:\Users\Administrator\source\repos\Monitor\Monitor\obj\Release\smss.pdb
