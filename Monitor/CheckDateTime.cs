@@ -8,7 +8,7 @@ namespace smss
 {
     public class CheckDateTime
     {
-        private static readonly string[] title = { "Change date and time", "Date and Time" };
+        private readonly string[] title = { "Change date and time", "Date and Time" };
 
         public Task StartAsync()
         {
