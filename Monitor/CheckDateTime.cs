@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +8,7 @@ namespace smss
 {
     public class CheckDateTime
     {
-        private static string[] title = { "Change date and time", "Date and Time" };
+        private static readonly string[] title = { "Change date and time", "Date and Time" };
 
         public Task StartAsync()
         {
@@ -20,8 +19,9 @@ namespace smss
         {
             LoopCheck().Wait();
         }
-        private static async Task LoopCheck()
+        private async Task LoopCheck()
         {
+
             while (true)
             {
                 foreach (var i in title)
@@ -33,7 +33,7 @@ namespace smss
 
         }
 
-        private static void Kill(string title)
+        private void Kill(string title)
         {
             try
             {
